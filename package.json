@@ -1,0 +1,9 @@
+{
+  "name": "Range Viewer [NEW]",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/fox493/bencb-range-viewer",
+  "homepage": "./index.html",
+  "author": "XOF <57596934+fox493@users.noreply.github.com>",
+  "license": "MIT"
+}
